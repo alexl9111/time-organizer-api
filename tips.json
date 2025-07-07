@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "tip": "Start your day with a clear to-do list",
+    "category": "Productivity"
+  },
+  {
+    "id": 2,
+    "tip": "Avoid multitasking",
+    "category": "Focus"
+  },
+  {
+    "id": 3,
+    "tip": "Take breaks every 25 minutes",
+    "category": "Time Blocking"
+  }
+]
